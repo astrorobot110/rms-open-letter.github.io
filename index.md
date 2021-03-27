@@ -2788,6 +2788,7 @@ Free Software Contributor)
 1. Youngbin Han (Ubuntu Korea Community)
 1. Young Hun Kim
 1. Yo Yehudi (Co-founder of Open Life Science)
+1. Yusuke Itoh
 1. Yuriy Mironenko
 1. Yuval Adam
 1. Yuvi Panda (Project Jupyter)
